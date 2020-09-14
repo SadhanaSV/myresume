@@ -1,0 +1,55 @@
+.image{
+  width: 250px;
+  float: left;
+}
+h1{
+  text-align:left;
+  padding-top: 200px;
+
+  font-family: 'Montserrat', sans-serif;
+}
+h3 ,a,.contact{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  text-align:left;
+
+  font-family: 'Oswald', sans-serif;
+  word-spacing:5px;
+}
+table{
+  border: 1px  ;
+  margin-left: 30px;
+}
+body{
+  background-color: #cffffe;
+}
+.grids{
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr ;
+  border: 1px ;
+  padding:20px 5px 0;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  background-color:#d2f6c5;
+  font-family: 'Oswald', sans-serif;
+}
+.table-e {
+  background-color: #d2f6c5;
+  font-family: 'Oswald', sans-serif;
+}
+.table-b{
+  background-color: #d2f6c5;
+  font-family: 'Oswald', sans-serif;
+  border:1px ;
+  font-size:20px;
+}
+.skills{
+  background-color: #d2f6c5;
+  font-family: 'Oswald', sans-serif;
+  border: 1px ;
+  padding:20px 0 20px 50px;
+}
+.bottom-container{
+  font-family: 'Oswald', sans-serif;
+}
